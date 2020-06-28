@@ -16,8 +16,8 @@ function whileLoop(n) {
   return `done`
 }
 
-function doWhileLoop(integer) {
+function doWhileLoop(n) {
   do { 
     console.log("I run once regardless.") 
-  } while (incrementVariable() <= (integer)
+  } while (incrementVariable() <= (n)
 }
